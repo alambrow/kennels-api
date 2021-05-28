@@ -32,9 +32,35 @@
             "id": 2,
             "name": "Alex Lambrow",
             "address": "2021 Main St"
+        },
+        {
+            "id": 3,
+            "name": "Joan Minestrone",
+            "address":"201 Emory Drive"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Linda McDoogle",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Jackie Tortellini",
+            "locationId": 1
+        },
+        {
+            "id": 4,
+            "name": "Jimmy Jones",
+            "locationId": 2
+        }
+    ],
     "locations": [
         {
             "id": 1,
