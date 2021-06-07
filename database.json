@@ -1,76 +1,77 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Dr. Fluffy",
-            "breed": "St. Bernard",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 3,
-            "name": "Max",
-            "breed": "American Shorthair",
-            "customerId": 2,
-            "locationId": 1
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
-        },
-        {
-            "id": 2,
-            "name": "Alex Lambrow",
-            "address": "2021 Main St"
-        },
-        {
-            "id": 3,
-            "name": "Joan Minestrone",
-            "address":"201 Emory Drive"
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jeremy Bakker",
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Linda McDoogle",
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Jackie Tortellini",
-            "locationId": 1
-        },
-        {
-            "id": 4,
-            "name": "Jimmy Jones",
-            "locationId": 2
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 2,
+      "name": "Dr. Fluffy",
+      "locationId": 2,
+      "customerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Max ",
+      "locationId": 2,
+      "customerId": 2
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Alex Lambrow",
+      "address": "2021 Main St"
+    },
+    {
+      "id": 3,
+      "name": "Joan Minestrone",
+      "address": "201 Emory Drive"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Linda McDoogle",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Jackie Tortellini",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Jimmy Jones",
+      "locationId": 1
+    },
+    {
+      "name": "Alexander Lambrow",
+      "locationId": 1,
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8462 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "id": 3,
+      "name": "New Location!!!",
+      "address": "2800 Main Street"
+    }
+  ]
 }
